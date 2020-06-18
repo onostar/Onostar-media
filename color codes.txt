@@ -1,0 +1,3 @@
+Primary color - #0b7cac
+<i class="fas fa-bars"></i>
+Download SVGPerfect for when you want to use just one icon as a vector on the desktop or in your own icon workflow.
