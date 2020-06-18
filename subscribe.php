@@ -51,7 +51,7 @@
     </head>
     <body id='subscribe_body'>
         <div class='subscribed'>
-            <p>Thanks for joining the community<br>You will now get Modern Business Tricks, advice and updates.</p>
+            <p>Thanks for joining the community!<br>You will now get Modern Business Tricks, advice and updates.</p>
             <button><a href='index.html'>OK</a>
         </div>
     </body>
