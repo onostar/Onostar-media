@@ -175,27 +175,28 @@ nav ul li ul li a:hover{
     0%{
         left:0%;
     }
-    20%{
+    25%{
         left:0%;
     }
-    25%{
-        left:-100%;
-    }
-    45%{
+    30%{
         left:-100%;
     }
     50%{
-        left:-200%;
+        left:-100%;
     }
-    70%{
+    55%{
         left:-200%;
     }
     75%{
+        left:-200%;
+    }
+    80%{
         left:-300%;
     }
     100%{
         left:-300%;
     }
+
 }
 .slides{
     position:relative;
@@ -215,6 +216,11 @@ nav ul li ul li a:hover{
     width:100%;
 }
 .slides img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.slides video{
     width:100%;
     height:100%;
     object-fit: cover;
@@ -245,7 +251,7 @@ nav ul li ul li a:hover{
     margin-left:10px;
 }
 #slide4 .banners p{
-    margin:0;
+    margin:0 0 40px 0;
     text-align: left;
 }
 @keyframes zoomBanner{
